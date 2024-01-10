@@ -1,0 +1,15 @@
+{
+  "name": "is-one-hundred-and-sixty-eight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethrythedev/is-one-hundred-and-sixty-eight.git"
+  },
+  "author": "ethrythedev",
+  "license": "HPL",
+  "description": "Is that number really 168?",
+  "dependencies": {
+    "does-nothing": "^1.0.3"
+  }
+}
